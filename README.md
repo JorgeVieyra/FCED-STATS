@@ -10,9 +10,9 @@ Using the wildfires in Portugal dataset from 2015 to answer a question by analyz
 We have two types of variables:
 
 **Quantitative**:
-- Hora de extinção
+- Duração do fogo (Hora e data de extinção - Hora e data de alerta)
 - Area queimada
-- Tempo de reação (Hora e data alerta - hora e data 1 intervenção)
+- Tempo de reação (Hora e data 1 intervenção - Hora e data alerta)
 
 **Qualitative**:
 - Tipo de causa
