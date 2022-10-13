@@ -4,7 +4,7 @@ Statistics project of the FCED course.
 Using the wildfires in Portugal dataset from 2015 to answer a question by analyzing data, and through it, reaching an answer.
 
 ## Research Question:
-*What variables can interfere with the extinguishing time of the fire outbreak?*
+*Which factors can have an impact on a wider burned area and number of fire occurrences?*
 
 ## Variables:
 We have two types of variables:
