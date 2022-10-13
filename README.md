@@ -13,6 +13,7 @@ We have two types of variables:
 - Duração do fogo (Hora e data de extinção - Hora e data de alerta)
 - Area queimada
 - Tempo de extinção (Hora e data extinção - Hora e data 1 intervenção)
+- Tempo de reação (Hora e data de 1 intervenção - Hora e data de alerta)
 
 **Qualitative**:
 - Tipo de causa
